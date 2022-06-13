@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JayD1.github.io/sitemap.xml
+Sitemap: https://JayD2106.github.io/sitemap.xml
