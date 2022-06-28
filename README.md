@@ -116,6 +116,7 @@ $ git clone git@github.com:<your-username>/<your-repo-name>.git
 $ cd <your-repo-name>
 $ bundle install
 $ bundle exec jekyll serve
+$ jekyll build
 ```
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
